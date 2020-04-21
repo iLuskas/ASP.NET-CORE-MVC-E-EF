@@ -1,6 +1,6 @@
-# Teste Radix - Processo seletivo
+# Teste - Processo seletivo
 
-Projeto de teste da Radix
+Projeto de teste
 
 ## Objetivo
 Imagine que você ficou responsável por construir um sistema que seja capaz de receber milhares de eventos por segundo de sensores espalhados pelo Brasil, nas regiões norte, nordeste, sudeste e sul. Seu cliente também deseja que na solução ele possa visualizar esses eventos de forma clara.
